@@ -4,3 +4,23 @@ title: "Eloi"
 date: 2024-10-17
 categories: blog
 ---
+
+## La Importància de la Ciberseguretat
+
+La ciberseguretat és essencial en un món digitalitzat. Protegeix dades personals i empresarials davant de diverses amenaces.
+
+![Ciberseguretat](https://acerkate.com/storage/2021/04/auditoria-de-seguridad-informatica-scaled.jpg)
+
+### Tipus d'Amenaces
+
+- **Phishing**: Intent de robar informació mitjançant correus electrònics enganyosos.
+- **Malware**: Programari maliciós que danya sistemes.
+- **Ransomware**: Bloqueja accés a dades a canvi de rescats.
+
+### Bones Pràctiques
+
+- Utilitza contrasenyes fortes.
+- Actualitza el programari regularment.
+- Realitza còpies de seguretat de les teves dades.
+
+La ciberseguretat és responsabilitat de tothom. Protegeix-te!
