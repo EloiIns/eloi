@@ -1,6 +1,6 @@
  ---
 layout: page
-title: Nom Pàgina
-permalink: /nom_pagina/
+title: eloirr
+permalink: /eloirr/
 ---
 
