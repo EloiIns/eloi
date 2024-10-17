@@ -27,7 +27,8 @@ Aquest text és ***molt*** important
 4. Els numero a continuacio
 5. Per a cada punt que vulguis
 
-<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+### La imatge es fica aixi \\<image src="https://picsum.photos/800/600">
+<image src="https://picsum.photos/800/600">
 
 
 
