@@ -1,0 +1,6 @@
+---
+layout: post
+title: "El meu nou post"
+date: AAAA-MM-DD
+categories: blog
+---
