@@ -7,7 +7,7 @@ permalink: /about/
 ## Això és un títol 2
 i s'utilitza amb 2 hashtags
 
-Aquest text és ***molt*** molt important
+Aquest text és ***molt*** important
 
 | Notes |  0-2 | 3-4 | 5-7  | 8-10  |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ Aquest text és ***molt*** molt important
 4. Els numero a continuacio
 5. Per a cada punt que vulguis
 
-![Img]([/assets/images/tux.png](https://www.imprentaonline.net/blog/wp-content/uploads/DALL%C2%B7E-2023-10-16-10.41.49-Illustration-depicting-a-humanoid-robot-with-half-of-its-face-transparent-revealing-intricate-circuits-and-gears-inside.-The-robot-is-holding-a-light-1.png))
+<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
 
 
 
