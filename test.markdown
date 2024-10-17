@@ -31,5 +31,5 @@ El nostre equip d'experts en anàlisi forense digital pot ajudar a recuperar dad
 
 Oferim serveis de resposta ràpida a incidents de seguretat. En cas de ciberatac, el nostre equip està preparat per intervenir, contenir i mitigar l'impacte dels incidents.
 
-[Apreneu més sobre la gestió de resposta a incidents](https://example.com/resposta-incidents)
-![Gestió de Resposta a Incidents](https://picsum.photos/800/400)
+[Apreneu més sobre la gestió de resposta a incidents]([https://example.com/resposta-incidents](https://www.incibe.es/incibe-cert/incidentes/respuesta-incidentes))
+![Gestió de Resposta a Incidents](https://www.rberny.com/wp-content/uploads/2023/02/Respuesta-a-incidentes-de-Ciberseguridad-rberny-2023.png)
