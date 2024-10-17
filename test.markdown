@@ -9,7 +9,9 @@ permalink: /test/
 Aquí teniu tres serveis que la nostra empresa de ciberseguretat ofereix:
 
 ### 1. Auditoria de Seguretat
-![Auditoria de Seguretat]([https://picsum.photos/800/400](https://acerkate.com/storage/2021/04/auditoria-de-seguridad-informatica-scaled.jpg))
+![Auditoria de Seguretat](https://acerkate.com/storage/2021/04/auditoria-de-seguridad-informatica-scaled.jpg)
+
+
 Realitzem auditoríes de seguretat completes per identificar vulnerabilitats en sistemes informàtics i xarxes. A través de l'auditoria, podem proposar solucions per mitigar els riscos.
 
 [Obteniu més informació sobre les nostres auditories de seguretat](https://example.com/auditoria-seguretat)
