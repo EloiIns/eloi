@@ -1,6 +1,6 @@
  ---
 layout: page
-title: eloirr
-permalink: /eloirr/
+title: err
+permalink: /err/
 ---
 
